@@ -1,0 +1,23 @@
+_repo: My-heart-s-in-the-Highlands_71450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Feuvre, Amy le
+    gutenberg_agent_id: '56241'
+    url: http://www.gutenberg.org/2009/agents/56241
+description: ''
+gutenberg_issued: '2023-08-19'
+identifiers:
+  gutenberg: '71450'
+language: en
+pgterms:marc905: 20230811192327lefeuvre
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bWard, Lock & Co, Limited, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My heart's in the Highlands
+url: http://www.gutenberg.org/ebooks/71450
